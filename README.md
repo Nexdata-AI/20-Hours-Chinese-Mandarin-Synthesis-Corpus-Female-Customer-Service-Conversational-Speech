@@ -1,8 +1,10 @@
 # 20-Hours-Chinese-Mandarin-Synthesis-Corpus-Female-Customer-Service-Conversational-Speech
-https://www.datatang.ai/datasets/1167
+
 
 ## Description
 20 Hours - Chinese Mandarin Synthesis Corpus-Female, Customer Service, Conversational Speech, It is recorded by Chinese native speakers, with sweet voice. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3Cjb70B
 
 ## Format
 48,000Hz, 24bit, uncompressed wav, mono channel;
@@ -27,3 +29,6 @@ word and Pinyin transcription;
 
 ## Application scenarios
 speech synthesis.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
